@@ -8,6 +8,8 @@ The project aims at using a portable vehicle to detect and track people automati
 
 This project began at Sep, 2018, and are expected to complete at Jan, 2019.
 
+This project is supported by SJTU Student Innovation Center.
+
 ## Dependencies
 
 Python3, tensorflow 1.0, numpy, opencv 3, darkflow.
