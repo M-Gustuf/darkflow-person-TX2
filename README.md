@@ -6,9 +6,7 @@ A real-time person-detection project based on darkflow ([here](https://github.co
 
 The project aims at using a portable vehicle to detect and track people automatically. The scene will be displayed remotely.
 
-This project began at Sep, 2018, and are expected to complete at Jan, 2019.
-
-This project is supported by SJTU Student Innovation Center.
+This project began at Sep, 2018, and completed at Dec, 2018.
 
 ## Dependencies
 
@@ -19,6 +17,8 @@ Python3, tensorflow 1.0, numpy, opencv 3, darkflow.
 1. Getting the dependencies ready. 
 
 2. Following the guide [here](https://github.com/thtrieu/darkflow) to install darkflow. You can also learn how to use darkflow in this web. 
+
+3. Run the FINAL.py if you have both vehicles and TX2 board, you need also change the "app.run()" line to your IP Address. 
 
 ## About the model
 
